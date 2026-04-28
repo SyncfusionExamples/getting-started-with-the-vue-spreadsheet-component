@@ -1,5 +1,5 @@
 {
-  "name": "myvueapp",
+  "name": "spreadsheet-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@syncfusion/ej2-vue-spreadsheet": "^24.1.45",
-    "vue": "^3.3.11"
+    "@syncfusion/ej2-vue-spreadsheet": "*",
+    "vue": "^3.5.32"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.5.2",
-    "vite": "^5.0.8"
+    "@vitejs/plugin-vue": "^6.0.6",
+    "vite": "^8.0.10"
   }
 }
