@@ -12,7 +12,6 @@ A quick-start project that helps you create and configure the **Syncfusion Vue S
 ## Recommended IDE Setup
 
 - Visual Studio Code
-- Vetur
 
 ## How to run this application?
 

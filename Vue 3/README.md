@@ -12,8 +12,6 @@ A quick-start project that helps you create and configure the **Syncfusion Vue S
 ## Recommended IDE Setup
 
 - Visual Studio Code
-- Volar (disable Vetur)
-- TypeScript Vue Plugin (Volar)
 
 ## How to run this application?
 
