@@ -1,38 +1,26 @@
-# Getting Started with the Vue Spreadsheet Component
+# Getting Started with Vue Spreadsheet Component
 
-A quick-start project that helps you create and configure the **Syncfusion Vue Spreadsheet component**. This project allows you to clone the repository and run the application to get started quickly.
+A quick-start repository that helps you create and configure the **Syncfusion Vue Spreadsheet component** in both Vue 2 and Vue 3 applications. Use this repository to explore and compare implementations for both Vue versions.
 
 ## Project Prerequisites
 
 - Node.js (v14.15.0 or higher recommended)
-- Vue 3
-- Vite
 - npm
+- Vue CLI (for Vue 2)
+- Vite (for Vue 3)
+- Vue 2 and/or Vue 3
 
 ## Recommended IDE Setup
 
 - Visual Studio Code
-- Volar (disable Vetur)
-- TypeScript Vue Plugin (Volar)
-
-## How to run this application?
-
-1. Clone the `getting-started-with-the-vue-spreadsheet-component` repository.
-2. Open the project in Visual Studio Code.
-3. Install the required packages using:
-   ```
-   npm install
-   ```
-4. Run the project using:
-   ```
-   npm run dev
-   ```
-5. Open the application URL shown in the terminal (typically http://localhost:5173).
+- For Vue 2: Vetur
+- For Vue 3: Volar (disable Vetur) and TypeScript Vue Plugin (Volar)
 
 ## Documentation
 
 - Getting Started Guide:  
-  https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started
+  [Vue 3 Getting Started](https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started)  
+  [Vue 2 Getting Started](https://help.syncfusion.com/document-processing/excel/spreadsheet/vue/getting-started)
 
 - Online Demo:  
   https://ej2.syncfusion.com/vue/demos/#/material3/spreadsheet/default.html
