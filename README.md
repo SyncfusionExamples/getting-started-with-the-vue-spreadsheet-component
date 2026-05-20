@@ -2,13 +2,10 @@
 
 A quick-start repository that helps you create and configure the **Syncfusion Vue Spreadsheet component** in both Vue 2 and Vue 3 applications. Use this repository to explore and compare implementations for both Vue versions.
 
-## Project Prerequisites
+## Project Reference
 
-- Node.js (v14.15.0 or higher recommended)
-- npm
-- Vue CLI (for Vue 2)
-- Vite (for Vue 3)
-- Vue 2 and/or Vue 3
+- [Vue 2 application](./Vue%202/README.md): Example using Vue 2 and Syncfusion Vue Spreadsheet.
+- [Vue 3 application](./Vue%203/README.md): Example using Vue 3 and Syncfusion Vue Spreadsheet.
 
 ## Recommended IDE Setup
 
@@ -16,12 +13,11 @@ A quick-start repository that helps you create and configure the **Syncfusion Vu
 - For Vue 2: Vetur
 - For Vue 3: Volar (disable Vetur) and TypeScript Vue Plugin (Volar)
 
-## Documentation
+## References
 
-- Getting Started Guide:  
-  [Vue 3 Getting Started](https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started)  
-  [Vue 2 Getting Started](https://help.syncfusion.com/document-processing/excel/spreadsheet/vue/getting-started)
-
+- Documentation:  
+  [Vue Spreadsheet Overview](https://help.syncfusion.com/document-processing/excel/spreadsheet/vue/overview)
+  
 - Online Demo:  
   https://ej2.syncfusion.com/vue/demos/#/material3/spreadsheet/default.html
 

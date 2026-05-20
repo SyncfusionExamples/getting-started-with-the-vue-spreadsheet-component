@@ -1,6 +1,6 @@
-# Getting Started with the Vue Spreadsheet Component
+# Getting Started with the Vue 2 Spreadsheet Component
 
-A quick-start project that helps you create and configure the **Syncfusion Vue Spreadsheet component**. This project allows you to clone the repository and run the application to get started quickly.
+A quick-start project that helps you create and configure the **Syncfusion Vue Spreadsheet component** using **Vue 2**. This project allows you to clone the repository and run the application to get started quickly.
 
 ## Project Prerequisites
 
@@ -28,3 +28,7 @@ A quick-start project that helps you create and configure the **Syncfusion Vue S
 	npm run serve
 	```
 6. Open the application URL shown in the terminal (typically http://localhost:8080).
+
+## See Also
+
+- [Vue 2 Getting Started](https://help.syncfusion.com/document-processing/excel/spreadsheet/vue/getting-started)

@@ -1,6 +1,6 @@
-# Getting Started with the Vue Spreadsheet Component
+# Getting Started with the Vue 3 Spreadsheet Component
 
-A quick-start project that helps you create and configure the **Syncfusion Vue Spreadsheet component**. This project allows you to clone the repository and run the application to get started quickly.
+A quick-start project that helps you create and configure the **Syncfusion Vue Spreadsheet component** using **Vue 3**. This project allows you to clone the repository and run the application to get started quickly.
 
 ## Project Prerequisites
 
@@ -30,13 +30,6 @@ A quick-start project that helps you create and configure the **Syncfusion Vue S
    ```
 5. Open the application URL shown in the terminal (typically http://localhost:5173).
 
-## Documentation
+## See Also 
 
-- Getting Started Guide:  
-  https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started
-
-- Online Demo:  
-  https://ej2.syncfusion.com/vue/demos/#/material3/spreadsheet/default.html
-
-- Tutorial Videos:  
-  https://www.syncfusion.com/tutorial-videos
+- [Vue 3 Getting Started](https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started)
