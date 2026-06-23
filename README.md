@@ -1,11 +1,11 @@
 # Getting Started with Vue Spreadsheet Component
 
-A quick-start repository that helps you create and configure the **Syncfusion Vue Spreadsheet component** in both Vue 2 and Vue 3 applications. Use this repository to explore and compare implementations for both Vue versions.
+A quick-start repository that helps you create and configure the [Vue Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/vue-spreadsheet-editor) component in both Vue 2 and Vue 3 applications. Use this repository to explore and compare implementations for both Vue versions.
 
 ## Project Reference
 
-- [Vue 2 application](./Vue%202/README.md): Example using Vue 2 and Syncfusion Vue Spreadsheet.
-- [Vue 3 application](./Vue%203/README.md): Example using Vue 3 and Syncfusion Vue Spreadsheet.
+- [Vue 2 application](./Vue%202/README.md): Example using Vue 2 and Vue Spreadsheet.
+- [Vue 3 application](./Vue%203/README.md): Example using Vue 3 and Vue Spreadsheet.
 
 ## Recommended IDE Setup
 
