@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@syncfusion/ej2-vue-spreadsheet": "*",
+    "@syncfusion/ej2-tailwind3-theme": "*",
     "vue": "^3.5.32"
   },
   "devDependencies": {
